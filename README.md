@@ -29,3 +29,10 @@
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 
 
+> ### 🎯 Random Dev Quote
+> 
+> *"If debugging is the process of removing software bugs, then programming must be the process of putting them in."*
+> 
+> — **Edsger W. Dijkstra**
+
+
