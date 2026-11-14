@@ -2,8 +2,8 @@
 
 ### 💫 About Me:
 
-- 💡 I am currently working on databases and data engineering skills
-- 💛 I'm looking for my first job as a Junior Data Engineer
+- 💡 Currently learning Linux, Python, and automated testing, with a focus on CI/CD.
+- 💛 Looking for an IT internship in software testing and automation, with a long-term interest in DevOps.
 
 ### 🌐 Socials:
 
@@ -26,5 +26,6 @@
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/)
 [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 
 
